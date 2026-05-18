@@ -12,7 +12,7 @@
 
   The problem statement was restricted only to UG1 students and the code was to be made entirely in C.
 
-  ## 📘 Usage Guide
+ Usage Guide :
 
  For further usage instructions, check out the Usage_Guide provided above.
   
