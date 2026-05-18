@@ -1,1 +1,22 @@
-# Text-Editor-Megathon-25
+# Megathon-25
+  This repository contains the megathon project we created for our problem statement at Megathon 2025 hosted by E-cell,IIIT Hyderabad.  
+  The problem statement was:  
+  To make a rich text editor which should have the following features:  
+- It should allow multiple people to edit at the same time
+- It should allow authorised personel only
+- It should support executable code blocks(executing code within the document)(C language)
+- It should support multimedia(insert images,videos etc)
+- It should have AI completions
+- It should have chat with others and also with AI
+- It should store version history of the document over time, and allow to revert to previous verisons
+
+  The problem statement was restricted only to UG1 students and the code was to be made entirely in C.
+
+  ## 📘 Usage Guide
+
+ For further usage instructions, check out the [USAGE GUIDE](./USAGE%20GUIDE.md).
+  
+ P.S:  
+      Team name : Illuminati  - Amey Patel, Nipun Jain, Harshit Shah, Aarush Maheshwari, Aryan Jhawar  
+        Status  : Winners  
+      Special thanks to OSDG for giving the wonderful opportunity to UG1's and E-Cell IIIT-H for hosting the beautiful event!!
