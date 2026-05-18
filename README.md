@@ -14,7 +14,7 @@
 
   ## 📘 Usage Guide
 
- For further usage instructions, check out the [USAGE GUIDE](./USAGE%20GUIDE.md).
+ For further usage instructions, check out the Usage_Guide provided above.
   
  P.S:  
       Team name : Illuminati  - Amey Patel, Nipun Jain, Harshit Shah, Aarush Maheshwari, Aryan Jhawar  
